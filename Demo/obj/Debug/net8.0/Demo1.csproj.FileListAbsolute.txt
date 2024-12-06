@@ -1,0 +1,83 @@
+C:\Users\bulat\source\repos\Demo1\Demo1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bulat\source\repos\Demo1\Demo1\bin\Debug\net8.0\appsettings.json
+C:\Users\bulat\source\repos\Demo1\Demo1\bin\Debug\net8.0\Demo1.exe
+C:\Users\bulat\source\repos\Demo1\Demo1\bin\Debug\net8.0\Demo1.deps.json
+C:\Users\bulat\source\repos\Demo1\Demo1\bin\Debug\net8.0\Demo1.runtimeconfig.json
+C:\Users\bulat\source\repos\Demo1\Demo1\bin\Debug\net8.0\Demo1.dll
+C:\Users\bulat\source\repos\Demo1\Demo1\bin\Debug\net8.0\Demo1.pdb
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.AssemblyInfoInputs.cache
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.AssemblyInfo.cs
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.Demo1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo1.props
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo1.props
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo1.props
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\scopedcss\bundle\Demo1.styles.css
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.dll
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\refint\Demo1.dll
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.pdb
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\Demo1.genruntimeconfig.cache
+C:\Users\bulat\source\repos\Demo1\Demo1\obj\Debug\net8.0\ref\Demo1.dll
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.AssemblyInfoInputs.cache
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.AssemblyInfo.cs
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.dll
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\refint\Demo1.dll
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.pdb
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\appsettings.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\Demo1.staticwebassets.endpoints.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\Demo1.exe
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\Demo1.deps.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\Demo1.runtimeconfig.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\Demo1.dll
+C:\Users\bulat\OneDrive\Desktop\Demo1\bin\Debug\net8.0\Demo1.pdb
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\scopedcss\bundle\Demo1.styles.css
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.Demo1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.Demo1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo1.props
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo1.props
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo1.props
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\Demo1.genruntimeconfig.cache
+C:\Users\bulat\OneDrive\Desktop\Demo1\obj\Debug\net8.0\ref\Demo1.dll
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\appsettings.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\Demo1.staticwebassets.endpoints.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\Demo1.exe
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\Demo1.deps.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\Demo1.runtimeconfig.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\Demo1.dll
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\bin\Debug\net8.0\Demo1.pdb
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.AssemblyInfoInputs.cache
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.AssemblyInfo.cs
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\scopedcss\bundle\Demo1.styles.css
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets\msbuild.Demo1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets\msbuild.Demo1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo1.props
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo1.props
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo1.props
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.dll
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\refint\Demo1.dll
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.pdb
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\Demo1.genruntimeconfig.cache
+C:\Users\CCU\Desktop\Булатов ИСИП-309\Demo\obj\Debug\net8.0\ref\Demo1.dll

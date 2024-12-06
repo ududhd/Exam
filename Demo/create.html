@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Создание заявки</title>
+
+</head>
+<body>
+    <div>
+        <a href="orders.html">Список заявок</a>
+    </div> <br>
+           <form action="https://localhost:7042/create" method="get">
+               <input placeholder="Номер" name="number" type="number" />
+               <input name="startDate" type="date" />
+               <input placeholder="Оборудование" type="text" name="equipment"/>
+               <input placeholder="Модель" type="text" name="model"/>
+               <input placeholder="Проблема" type="text" name="problem" />
+               <input placeholder="ФИО" type="text" name="fio"  />
+               <input placeholder="Телефон" type="text" name="phone" />
+               <button>Отправить</button>
+           </form>
+</body>
+</html>
